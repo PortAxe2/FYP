@@ -1,0 +1,238 @@
+
+.Homepage {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  scroll-behavior: smooth;
+  width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar-brand {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #30475e;
+}
+
+.smp {
+  color: #f05454;
+}
+
+
+.navbar-toggler {
+    padding: 0;
+    width: 55px;
+    height: 40px;
+}
+
+
+.navbar-toggler:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    transition: ease-in 0.2s;
+}
+
+.nav-item a {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: gray; 
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.introduction {
+  text-align: center;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.carousel-item {
+    background-color: sandybrown;
+}
+
+.carousel-image {
+      height: 85vh;   
+      width: 100%;
+      object-fit: cover;
+} 
+
+.intro-text-name {
+    margin-top: 5vh;
+    width: auto;
+    height: auto;
+    position: absolute;
+    z-index: 1;
+}
+
+.intro-text-slogan {
+  display: inline-block;
+  width: 60vw;
+  height: auto;
+  position: absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+  z-index: 1;
+}
+
+  
+.slogan {
+  z-index: 1;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 800;
+  font-size: 4vw;
+}
+
+.in-carousel-sentence {
+  bottom: 10%;
+  font-size: 1.2rem;
+}
+
+
+/******************* TOOL **************************/
+
+#tool {
+  text-align: center;
+}
+
+.right-red {
+  background-color: #f05454;
+  padding: 48px;
+}
+
+.left-blue {
+  background-color: #30475e;
+  padding: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.tool-text {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  font-size: 1.7rem;
+  color: white;
+  bottom: 8px;
+}
+
+.arrow-icon {
+  color: #fff;
+  padding: 7%;
+}
+
+/******************* FEATURES **************************/
+
+.features {
+  background-color: #fff;
+  text-align: center;
+  padding: 8%;
+  overflow: visible;
+  height: fit-content;
+}
+
+.what-who {
+  color: #222831;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 600;
+  font-size: 3rem;
+  margin-bottom: 5%;
+}
+
+.feature-subtitle {
+  color: #222831;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 600;
+  font-size: 1.75rem;
+  padding: 32px;
+}
+
+.feature-text {
+  color: #222831;
+  font-size: 1rem;
+  margin-bottom: 55px;
+}
+
+.feat-img {
+  width: 8rem;
+}
+
+.arrow2 {
+    margin: 32px;
+    transform: rotateZ(90deg);
+    width: 50px;
+}
+
+
+
+.btn {
+    background: none;
+}
+
+.btn:hover {
+    background: white;
+    color: gray;
+}
+
+
+/******************* CONTACT **************************/
+
+#team {
+  text-align: center;
+  padding: 7% 10% 2% 10%;
+}
+
+.members {
+  border-radius: 100%;
+  width: 10rem;
+}
+
+.names {
+  color: #30475e;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  padding: 4%;
+}
+
+.person-box {
+  margin: auto;
+  padding: 2%;
+}
+
+.major {
+  color: #f05454;
+  font-size: 1.2rem;
+}
+
+
+/*################## Events ################*/
+
+.eventsContainer {
+  width: 100%;
+  outline: none;
+  border: none;
+  border-radius: 0;
+  background-color: #f05454;
+}
+
+.events::-webkit-scrollbar {
+  display: none;
+}
+
+.events {
+  margin: auto;
+  padding: 16px;
+  display: flex;
+  width: fit-content;
+  overflow-x: scroll;
+}
+
+.row-fe {
+  width: 100%;
+  margin: 0;
+}

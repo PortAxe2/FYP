@@ -1,0 +1,42 @@
+.mainDIV {
+    display: block;
+    width: 99vw;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+
+
+.networkDiv {
+    background-color: rgba(29, 29, 29, 0.041);
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 16px;
+    width: 75vw;
+    border-radius: 5px;
+}
+
+.network {
+    overflow: hidden;
+    padding: 0;
+    border-radius: 8px;
+}
+
+.network-left {
+    background-color: #003cffb0; 
+}
+
+.network-right {
+    background-color: #ff0000b0; 
+}
+
+.networkText{
+    margin-top: 16px;
+}
+
+.sigmaContainer {
+    color: rgb(255, 255, 255);
+}

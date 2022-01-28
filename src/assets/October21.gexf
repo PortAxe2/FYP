@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-04-25">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="name" title="name" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="JoshuaPotash">
+        <attvalues>
+          <attvalue for="name" value="JoshuaPotash"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="761.3255" y="-9.086529"></viz:position>
+        <viz:color r="185" g="227" b="217"></viz:color>
+      </node>
+      <node id="2" label="saadhariri">
+        <attvalues>
+          <attvalue for="name" value="saadhariri"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-351.44797" y="1821.7087"></viz:position>
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </node>
+      <node id="3" label="HichamHaddad57">
+        <attvalues>
+          <attvalue for="name" value="HichamHaddad57"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1006.3343" y="-1622.1818"></viz:position>
+        <viz:color r="139" g="208" b="188"></viz:color>
+      </node>
+      <node id="4" label="ewarren">
+        <attvalues>
+          <attvalue for="name" value="ewarren"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="443.43692" y="-356.76025"></viz:position>
+        <viz:color r="173" g="222" b="210"></viz:color>
+      </node>
+      <node id="5" label="MelhemKaram">
+        <attvalues>
+          <attvalue for="name" value="MelhemKaram"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-733.2548" y="1228.637"></viz:position>
+        <viz:color r="196" g="231" b="225"></viz:color>
+      </node>
+      <node id="6" label="DimaSadek">
+        <attvalues>
+          <attvalue for="name" value="DimaSadek"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1675.6029" y="-1057.9604"></viz:position>
+        <viz:color r="162" g="218" b="202"></viz:color>
+      </node>
+      <node id="7" label="zainab_elzein">
+        <attvalues>
+          <attvalue for="name" value="zainab_elzein"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="387.68448" y="-1873.9697"></viz:position>
+        <viz:color r="214" g="238" b="236"></viz:color>
+      </node>
+      <node id="8" label="shit">
+        <attvalues>
+          <attvalue for="name" value="shit"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="811.5568" y="51.363194"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="9" label="Beirut">
+        <attvalues>
+          <attvalue for="name" value="Beirut"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="824.6216" y="42.195545"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="10" label="Lebanon">
+        <attvalues>
+          <attvalue for="name" value="Lebanon"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="761.5853" y="-52.846478"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="11" label="today">
+        <attvalues>
+          <attvalue for="name" value="today"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="824.9621" y="41.58778"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="12" label="million">
+        <attvalues>
+          <attvalue for="name" value="million"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="760.38904" y="71.61504"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="13" label="people">
+        <attvalues>
+          <attvalue for="name" value="people"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="611.8906" y="-182.98666"></viz:position>
+        <viz:color r="231" g="245" b="247"></viz:color>
+      </node>
+      <node id="14" label="taking over">
+        <attvalues>
+          <attvalue for="name" value="taking over"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="824.9651" y="41.594048"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="15" label="city">
+        <attvalues>
+          <attvalue for="name" value="city"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="719.1505" y="61.130127"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="16" label="anti-corruption">
+        <attvalues>
+          <attvalue for="name" value="anti-corruption"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="849.97485" y="16.936884"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="17" label="protests">
+        <attvalues>
+          <attvalue for="name" value="protests"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="824.9654" y="41.595074"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="18" label="لن">
+        <attvalues>
+          <attvalue for="name" value="لن"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-298.67157" y="1650.865"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="19" label="اسمح">
+        <attvalues>
+          <attvalue for="name" value="اسمح"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-260.14114" y="1998.8396"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="20" label="تهديد">
+        <attvalues>
+          <attvalue for="name" value="تهديد"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-517.0797" y="1754.2029"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="21" label="الشباب">
+        <attvalues>
+          <attvalue for="name" value="الشباب"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-393.5293" y="1647.4437"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="22" label="الشابات">
+        <attvalues>
+          <attvalue for="name" value="الشابات"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-389.57593" y="1942.9473"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="23" label="المتظاهرين">
+        <attvalues>
+          <attvalue for="name" value="المتظاهرين"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-467.4811" y="1698.5137"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="24" label="صوتكم">
+        <attvalues>
+          <attvalue for="name" value="صوتكم"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.5976" y="1670.2731"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="25" label="انتخابات">
+        <attvalues>
+          <attvalue for="name" value="انتخابات"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-305.82687" y="1765.1321"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="26" label="مبكرة">
+        <attvalues>
+          <attvalue for="name" value="مبكرة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-225.33273" y="1887.294"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="27" label="الهوية">
+        <attvalues>
+          <attvalue for="name" value="الهوية"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-370.9338" y="1987.632"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="28" label="اللبنانية">
+        <attvalues>
+          <attvalue for="name" value="اللبنانية"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-539.0466" y="1789.6415"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="29" label="طائفي">
+        <attvalues>
+          <attvalue for="name" value="طائفي"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-211.38968" y="1968.061"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="30" label="مجلس">
+        <attvalues>
+          <attvalue for="name" value="مجلس"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-182.52246" y="1733.9707"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="31" label="الوزراء">
+        <attvalues>
+          <attvalue for="name" value="الوزراء"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-268.58502" y="1701.6523"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="32" label="شباب">
+        <attvalues>
+          <attvalue for="name" value="شباب"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-872.0112" y="-1476.5371"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="33" label="سقطت">
+        <attvalues>
+          <attvalue for="name" value="سقطت"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-976.7053" y="-1478.7148"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="34" label="الحكومة">
+        <attvalues>
+          <attvalue for="name" value="الحكومة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1069.7975" y="-1543.341"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="35" label="أزمة">
+        <attvalues>
+          <attvalue for="name" value="أزمة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-894.29553" y="-1605.0292"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="36" label="زبالة">
+        <attvalues>
+          <attvalue for="name" value="زبالة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-967.8301" y="-1761.1046"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="37" label="تلاعب">
+        <attvalues>
+          <attvalue for="name" value="تلاعب"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1148.2876" y="-1680.8931"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="38" label="الدولار">
+        <attvalues>
+          <attvalue for="name" value="الدولار"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1066.29" y="-1752.0868"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="39" label="المصارف">
+        <attvalues>
+          <attvalue for="name" value="المصارف"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1009.11865" y="-1704.6074"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="40" label="سيولة">
+        <attvalues>
+          <attvalue for="name" value="سيولة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-921.31525" y="-1459.9912"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="41" label="اقتصادية">
+        <attvalues>
+          <attvalue for="name" value="اقتصادية"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-875.98553" y="-1525.0077"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="42" label="كهربا">
+        <attvalues>
+          <attvalue for="name" value="كهربا"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-928.5694" y="-1730.072"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="43" label="ماء">
+        <attvalues>
+          <attvalue for="name" value="ماء"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1088.2188" y="-1690.1311"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="44" label="مواصلات">
+        <attvalues>
+          <attvalue for="name" value="مواصلات"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-916.0741" y="-1678.2018"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="45" label="موجودة">
+        <attvalues>
+          <attvalue for="name" value="موجودة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1116.9873" y="-1735.9385"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="46" label="support">
+        <attvalues>
+          <attvalue for="name" value="support"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="512.71045" y="-448.527"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="47" label="Lebanese">
+        <attvalues>
+          <attvalue for="name" value="Lebanese"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="326.19635" y="-334.20755"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="48" label="protesting">
+        <attvalues>
+          <attvalue for="name" value="protesting"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="311.29895" y="-389.3234"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="49" label="demanding">
+        <attvalues>
+          <attvalue for="name" value="demanding"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="344.1327" y="-453.28525"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="50" label="government">
+        <attvalues>
+          <attvalue for="name" value="government"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="494.84396" y="-298.5262"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="51" label="care">
+        <attvalues>
+          <attvalue for="name" value="care"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="396.12598" y="-471.5955"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="52" label="rich">
+        <attvalues>
+          <attvalue for="name" value="rich"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="542.9482" y="-388.12143"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="53" label="powerful">
+        <attvalues>
+          <attvalue for="name" value="powerful"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="368.16083" y="-405.28363"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="54" label="fight">
+        <attvalues>
+          <attvalue for="name" value="fight"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="425.18024" y="-263.62912"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="55" label="corruption">
+        <attvalues>
+          <attvalue for="name" value="corruption"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="364.69742" y="-290.60422"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="56" label="home">
+        <attvalues>
+          <attvalue for="name" value="home"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="460.3246" y="-470.99396"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="57" label="اعتداء">
+        <attvalues>
+          <attvalue for="name" value="اعتداء"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-740.5476" y="1134.9393"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="58" label="مواطنة">
+        <attvalues>
+          <attvalue for="name" value="مواطنة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-707.61285" y="1086.1283"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="59" label="مباشرة">
+        <attvalues>
+          <attvalue for="name" value="مباشرة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-856.3191" y="1144.8132"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="60" label="الهواء">
+        <attvalues>
+          <attvalue for="name" value="الهواء"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-826.1931" y="1183.2993"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="61" label="يافطة">
+        <attvalues>
+          <attvalue for="name" value="يافطة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-816.69226" y="1102.1322"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="62" label="رئيس">
+        <attvalues>
+          <attvalue for="name" value="رئيس"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-770.1665" y="1088.3972"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="63" label="الأحزاب">
+        <attvalues>
+          <attvalue for="name" value="الأحزاب"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-550.1655" y="1512.0419"></viz:position>
+        <viz:color r="231" g="245" b="247"></viz:color>
+      </node>
+      <node id="64" label="القمع">
+        <attvalues>
+          <attvalue for="name" value="القمع"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-862.5746" y="1226.4397"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="65" label="طرابلس">
+        <attvalues>
+          <attvalue for="name" value="طرابلس"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1802.8752" y="-1019.62854"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="66" label="قندهار">
+        <attvalues>
+          <attvalue for="name" value="قندهار"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1484.369" y="-948.2038"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="67" label="بريتال">
+        <attvalues>
+          <attvalue for="name" value="بريتال"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1644.712" y="-1160.5865"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="68" label="وكر">
+        <attvalues>
+          <attvalue for="name" value="وكر"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1822.9586" y="-1076.639"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="69" label="حرامية">
+        <attvalues>
+          <attvalue for="name" value="حرامية"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1717.0303" y="-962.62616"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="70" label="الدربكة">
+        <attvalues>
+          <attvalue for="name" value="الدربكة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1731.8131" y="-1130.2158"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="71" label="النبطية">
+        <attvalues>
+          <attvalue for="name" value="النبطية"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1691.9503" y="-1185.6583"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="72" label="مشروع ليلى">
+        <attvalues>
+          <attvalue for="name" value="مشروع ليلى"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1500.5958" y="-995.97424"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="73" label="جبيل">
+        <attvalues>
+          <attvalue for="name" value="جبيل"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1593.4872" y="-1110.6611"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="74" label="قلم">
+        <attvalues>
+          <attvalue for="name" value="قلم"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1772.3816" y="-979.6452"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="75" label="المقدمة">
+        <attvalues>
+          <attvalue for="name" value="المقدمة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1798.9172" y="-1133.8259"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="76" label="أفقدتهم">
+        <attvalues>
+          <attvalue for="name" value="أفقدتهم"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1753.4213" y="-1178.6636"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="77" label="صوابهم">
+        <attvalues>
+          <attvalue for="name" value="صوابهم"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1770.6693" y="-1075.6208"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="78" label="بيار الضاهر">
+        <attvalues>
+          <attvalue for="name" value="بيار الضاهر"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1586.8241" y="-983.26746"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="79" label="عملتوه">
+        <attvalues>
+          <attvalue for="name" value="عملتوه"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-318.74536" y="1964.2264"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="80" label="كسر">
+        <attvalues>
+          <attvalue for="name" value="كسر"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-186.6472" y="1938.3928"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="81" label="الحواجز">
+        <attvalues>
+          <attvalue for="name" value="الحواجز"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-328.49252" y="1700.0774"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="82" label="هز">
+        <attvalues>
+          <attvalue for="name" value="هز"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-412.81128" y="1997.5579"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="83" label="التيارات">
+        <attvalues>
+          <attvalue for="name" value="التيارات"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-230.04845" y="1781.4559"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="84" label="القيادات">
+        <attvalues>
+          <attvalue for="name" value="القيادات"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-360.61047" y="2025.211"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="85" label="حاجز">
+        <attvalues>
+          <attvalue for="name" value="حاجز"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-199.01233" y="1690.1089"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="86" label="الولاء">
+        <attvalues>
+          <attvalue for="name" value="الولاء"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-190.26543" y="1830.3171"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="87" label="الطائفي">
+        <attvalues>
+          <attvalue for="name" value="الطائفي"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-152.78331" y="1818.073"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="88" label="الأعمى">
+        <attvalues>
+          <attvalue for="name" value="الأعمى"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-471.48734" y="1779.907"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="89" label="طائفية">
+        <attvalues>
+          <attvalue for="name" value="طائفية"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-248.13982" y="1662.4214"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="90" label="مذهبية">
+        <attvalues>
+          <attvalue for="name" value="مذهبية"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-346.0049" y="1647.497"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="91" label="مكسب">
+        <attvalues>
+          <attvalue for="name" value="مكسب"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.5049" y="1897.3474"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="92" label="وطني">
+        <attvalues>
+          <attvalue for="name" value="وطني"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-167.22119" y="1774.147"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="93" label="مقررات">
+        <attvalues>
+          <attvalue for="name" value="مقررات"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1152.8596" y="-1620.2555"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="94" label="حكومة">
+        <attvalues>
+          <attvalue for="name" value="حكومة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1102.4694" y="-1620.1873"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="95" label="توقعات">
+        <attvalues>
+          <attvalue for="name" value="توقعات"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1121.8038" y="-1559.7656"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="96" label="ميشال حايك">
+        <attvalues>
+          <attvalue for="name" value="ميشال حايك"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1020.7903" y="-1768.8324"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="97" label="القرارات">
+        <attvalues>
+          <attvalue for="name" value="القرارات"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-539.21796" y="1833.3805"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="98" label="اتخذناها">
+        <attvalues>
+          <attvalue for="name" value="اتخذناها"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.66608" y="1953.7535"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="99" label="اليوم">
+        <attvalues>
+          <attvalue for="name" value="اليوم"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-389.7401" y="1702.842"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="100" label="معمولة">
+        <attvalues>
+          <attvalue for="name" value="معمولة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-237.32101" y="1736.5387"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="101" label="تتوقعوا">
+        <attvalues>
+          <attvalue for="name" value="تتوقعوا"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-156.21614" y="1865.1387"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="102" label="التظاهر">
+        <attvalues>
+          <attvalue for="name" value="التظاهر"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-338.2154" y="1914.3634"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="103" label="التعبير">
+        <attvalues>
+          <attvalue for="name" value="التعبير"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-177.1758" y="1901.4316"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="104" label="الغضب">
+        <attvalues>
+          <attvalue for="name" value="الغضب"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-264.92252" y="1856.9148"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="105" label="قرار">
+        <attvalues>
+          <attvalue for="name" value="قرار"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.55658" y="1960.5363"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="106" label="بتاخدوه">
+        <attvalues>
+          <attvalue for="name" value="بتاخدوه"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-536.13214" y="1877.9921"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="107" label="يهددكن">
+        <attvalues>
+          <attvalue for="name" value="يهددكن"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-462.47687" y="1979.52"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="108" label="يخوفكن">
+        <attvalues>
+          <attvalue for="name" value="يخوفكن"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-435.63477" y="1742.1647"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="109" label="الدولة">
+        <attvalues>
+          <attvalue for="name" value="الدولة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.2807" y="1922.3236"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="110" label="تحميكن">
+        <attvalues>
+          <attvalue for="name" value="تحميكن"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-489.50668" y="1881.8136"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="111" label="تحمي">
+        <attvalues>
+          <attvalue for="name" value="تحمي"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-482.08154" y="1935.1964"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="112" label="تعبيركم">
+        <attvalues>
+          <attvalue for="name" value="تعبيركم"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-520.27704" y="1923.5017"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="113" label="السلمي">
+        <attvalues>
+          <attvalue for="name" value="السلمي"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-498.76724" y="1715.8179"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="114" label="مطالبكن">
+        <attvalues>
+          <attvalue for="name" value="مطالبكن"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-482.0206" y="1829.9418"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="115" label="المحقة">
+        <attvalues>
+          <attvalue for="name" value="المحقة"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-307.00388" y="2001.9441"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="116" label="الجيش">
+        <attvalues>
+          <attvalue for="name" value="الجيش"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="469.538" y="-1947.9156"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="117" label="قام">
+        <attvalues>
+          <attvalue for="name" value="قام"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="364.11285" y="-1937.0671"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="118" label="الواجب">
+        <attvalues>
+          <attvalue for="name" value="الواجب"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="352.10205" y="-1705.9417"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="119" label="لبنان">
+        <attvalues>
+          <attvalue for="name" value="لبنان"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="410.63528" y="-1991.3451"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="120" label="ينتفض">
+        <attvalues>
+          <attvalue for="name" value="ينتفض"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="310.8422" y="-1904.2551"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="8">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="1" source="1" target="9">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="2" source="1" target="10">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="3" source="1" target="11">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="4" source="1" target="12">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="5" source="1" target="13">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="6" source="1" target="14">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="7" source="1" target="15">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="8" source="1" target="16">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="9" source="1" target="17">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="10" source="2" target="18">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="11" source="2" target="19">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="12" source="2" target="20">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="13" source="2" target="21">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="14" source="2" target="22">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="15" source="2" target="23">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="16" source="2" target="24">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="17" source="2" target="25">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="18" source="2" target="26">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="19" source="2" target="27" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="20" source="2" target="28" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="21" source="2" target="29">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="22" source="2" target="30">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="23" source="2" target="31">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="24" source="3" target="32">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="25" source="3" target="33">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="26" source="3" target="34" weight="2.0">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="27" source="3" target="35">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="28" source="3" target="36">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="29" source="3" target="37">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="30" source="3" target="38">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="31" source="3" target="39">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="32" source="3" target="40">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="33" source="3" target="41">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="34" source="3" target="42">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="35" source="3" target="43">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="36" source="3" target="44">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="38" source="3" target="45">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="39" source="4" target="46">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="40" source="4" target="47">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="41" source="4" target="13">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="42" source="4" target="48">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="43" source="4" target="49">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="44" source="4" target="50">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="45" source="4" target="51">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="46" source="4" target="52">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="47" source="4" target="53">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="48" source="4" target="54">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="49" source="4" target="55">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="50" source="4" target="56">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="51" source="5" target="57">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="52" source="5" target="58">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="53" source="5" target="59">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="54" source="5" target="60">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="55" source="5" target="61">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="56" source="5" target="62">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="57" source="5" target="63">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="58" source="5" target="64">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="59" source="6" target="65">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="60" source="6" target="66">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="61" source="6" target="67">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="62" source="6" target="68">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="63" source="6" target="69">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="64" source="6" target="70">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="65" source="6" target="71">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="66" source="6" target="72">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="67" source="6" target="73">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="68" source="6" target="74">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="69" source="6" target="75">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="70" source="6" target="76">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="71" source="6" target="77">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="72" source="6" target="78">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="73" source="2" target="79">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="74" source="2" target="80">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="75" source="2" target="81">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="76" source="2" target="82">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="77" source="2" target="63">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="78" source="2" target="83">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="79" source="2" target="84">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="80" source="2" target="85">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="81" source="2" target="86">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="82" source="2" target="87">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="83" source="2" target="88">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="86" source="2" target="89">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="87" source="2" target="90">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="88" source="2" target="91">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="89" source="2" target="92">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="90" source="3" target="93">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="91" source="3" target="94">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="92" source="3" target="95">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="93" source="3" target="96">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="94" source="2" target="97">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="95" source="2" target="98">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="96" source="2" target="99">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="97" source="2" target="100">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="98" source="2" target="101">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="99" source="2" target="102">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="100" source="2" target="103">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="101" source="2" target="104">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="102" source="2" target="105">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="103" source="2" target="106">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="104" source="2" target="107">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="105" source="2" target="108">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="106" source="2" target="109">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="107" source="2" target="110">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="108" source="2" target="111">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="109" source="2" target="112">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="110" source="2" target="113">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="111" source="2" target="114">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="112" source="2" target="115">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="113" source="7" target="116">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="114" source="7" target="117">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="115" source="7" target="118">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="116" source="7" target="119">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+      <edge id="117" source="7" target="120">
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,15 @@
+.Embed-container {
+  width: 100%;
+  height: 100%;
+}
+
+.powerBIEmbed {
+  width: 99.1vw;
+  height: 3000px;
+}
+
+.mainDiv {
+  margin: 0;
+  padding: 0;
+  margin: auto;
+}
